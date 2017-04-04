@@ -6,7 +6,7 @@
 	<groupId>com.udemy</groupId>
 	<artifactId>backendninja</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>backendninja</name>
 	<description>curso de udemy con wildfly 10</description>
