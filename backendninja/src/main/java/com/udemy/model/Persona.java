@@ -26,5 +26,7 @@ public class Persona {
 		this.name = name;
 		this.age = age;
 	}
+	
+	public Persona(){}
 
 }
